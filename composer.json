@@ -22,7 +22,7 @@
 	"require": {
 		"php": ">=5.4.0",
 		"yiisoft/yii2": "*",
-		"zelenin/smsru": "1.4.2"
+		"erp-mgroen/smsru": "1.4.2b"
 	},
 	"autoload": {
 		"psr-4": {
